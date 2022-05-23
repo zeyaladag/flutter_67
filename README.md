@@ -44,7 +44,7 @@ Takım 67
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in yaklaşık 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in yaklaşık 120 ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ağırlıklı olarak ürün fikrinin geliştirilmesi, kapsamının gelirlenmesi ve UI tasarımının yapılmasına odaklanmıştır. UI tasarımı eklenen döküman üzerinden incelenebilir. Tasarımımız sayfa sayfa yapılacak işlere bölünmüş ve ilgili kişilerce görev olarak alınmıştır.
 
@@ -68,6 +68,27 @@ Alınan kararlar: Süre kısıtı sebebiyle hazırlanan UI'daki bazı özellikle
 # Sprint 2
 
 
+- **Sprint Notları**: Done/Undone durumu ve görev takibinin Firebase ile sağlanması işi tamamlandı. Kayıt olma ve giriş yapma sayfalarının kodlanmasına başlandı ancak iki sayfanın birleştirilmesi işi bu sprint içinde tamamlanamadı. 
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 125
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 125 puan ile başlaması gerektiğine karar verildi.
+
+**Backlog düzeni ve Story seçimleri**: Backlog'umuz ağırlıklı olarak Authentication ve ürünün ana fikri olan görev ataması sayfasının üzerinde yoğunlaşmıştır.
+
+**Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. 
+[sprint2_daily.pdf](https://github.com/zeyaladag/flutter_takim67/files/8757578/sprint2_daily.pdf)
+
+- **Sprint board update**: Sprint board screenshot: 
+- ![Screenshot from 2022-05-23 21-06-25](https://user-images.githubusercontent.com/59923643/169881432-d0a8a1e9-865b-49de-b805-701f2e549596.png)
+
+- **Ürün Durumu**: Kayıt olma ve giriş yapma sayfalarının UI kısımları kodlandı. Görev takibi, görev ve hedeflerin ataması sayfalarının UI kısmı ve Firebase bağlantısı yapıldı.
+
+- **Sprint Review**: 
+- Ürünün kullanıcı kısmında ciddi eksiklerimiz olduğunu gördük. Firebase ile ilgili bağlantılarımız tamamlandı ancak elimizdeki sayfalar Figma tasarımlarımız ile benzerlik göstermiyor. Bir sonraki sprintte mevcut sayfalarımızın kodlarını güncelleme ve birleştirme üzerine yoğunlaşmamız, ek bir sayfa kodlanması ile uğraşmamamız gerekiyor.
+
+- **Sprint Retrospective:**
+- Tüm ekip üyelerimiz bu sprintte akademi haricinde yoğun bir süreç yaşadı. Bu sebeple bazı işlerimizi son dakikalarda halletmek zorunda kaldık. Bir sonraki sprint için zaman planlaması konusunda daha hassas olmalıyız. Mevcut kodlarımızı hızlıca bir araya getirip hata ayıklamaya ve ürüne son halini vermeye odaklanmalıyız.
 ---
 
 # Sprint 3
