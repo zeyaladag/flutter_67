@@ -74,9 +74,9 @@ Alınan kararlar: Süre kısıtı sebebiyle hazırlanan UI'daki bazı özellikle
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 125 puan ile başlaması gerektiğine karar verildi.
 
-**Backlog düzeni ve Story seçimleri**: Backlog'umuz ağırlıklı olarak Authentication ve ürünün ana fikri olan görev ataması sayfasının üzerinde yoğunlaşmıştır.
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ağırlıklı olarak Authentication ve ürünün ana fikri olan görev ataması sayfasının üzerinde yoğunlaşmıştır.
 
-**Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. 
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. 
 [sprint2_daily.pdf](https://github.com/zeyaladag/flutter_takim67/files/8757578/sprint2_daily.pdf)
 
 - **Sprint board update**: Sprint board screenshot: 
