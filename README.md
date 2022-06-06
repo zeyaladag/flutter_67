@@ -92,5 +92,32 @@ Alınan kararlar: Süre kısıtı sebebiyle hazırlanan UI'daki bazı özellikle
 ---
 
 # Sprint 3
+- **Sprint Notları**: Önceki sprintlerde tamamlanan kodların birleştirilmesi, eksiklerin giderilmesi, hata ayıklaması yapılmasına odaklanıldı.
 
+- **Sprint içinde tamamlanması tahmin edilen puan**:120
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'in 120 puan ile başlaması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog ağırlıklı olarak hata ayıklama ve ürüne son şeklini vermek üzerine odaklanmıştır. Ayrıca ürünü Github'a yüklememiz gerektiği için bu sprintte fırsat buldukça GitHub üzerine araştırmalar ve denemeler yapıldı.
+
+- **Daily Scrum**: [sprint3_daily.pdf](https://github.com/zeyaladag/flutter_takim67/files/8847124/sprint3_daily.pdf)
+
+- **Sprint board update**: Sprint board screenshot: ![board_update](https://user-images.githubusercontent.com/59923643/172234202-4fcefd6a-85ec-454c-b6e7-0c237d5eb602.PNG)
+
+- **Ürün Durumu**: 
+![1](https://user-images.githubusercontent.com/59923643/172235826-1e5dac2b-bb4e-4054-b418-42cb612b9db7.jpeg)
+![2](https://user-images.githubusercontent.com/59923643/172235830-4289092b-684e-4d9f-9099-5e944fd3ec10.jpeg)
+![3](https://user-images.githubusercontent.com/59923643/172235832-463720a8-610c-4be1-8b3b-b65c61e0af78.jpeg)
+![4](https://user-images.githubusercontent.com/59923643/172235834-1da43063-1be0-4ae4-a5ec-af56f672d985.jpeg)
+![5](https://user-images.githubusercontent.com/59923643/172235835-2b12a5b4-e515-47f0-8c4f-00aa944fcf50.jpeg)
+
+- **Sprint Review**: 
+- Ürünün son hali, ilk sprintte belirlenen tasarım ile kıyaslandı. Planlama sürecinde yapılan hatalar ve eksikler üzerine tartışıldı. Geçtiğimiz iki hafta boyunca Github ile ilgili öğrendiğimiz şeyler ve çalışmalarımızın üzerinden geçtik. 
+
+- **Sprint Retrospective:**
+- Gelecekteki projelerde zaman kısıtı ve kişilerin yoğunluğu da göz önünde bulundurularak bir ürüne daha basit özelliklerle başlanması ve belirlenen MVP tamamlandıktan sonra vakit kaldıkça daha gelişmiş özellikler eklenmesine karar verildi.
+- UI için yapılan Figma tasarımlarının daha sade başlaması ve düzenli olarak yeni eklemeler yapılarak süreç boyunca güncellenmesi gerektiği konuşuldu.
+- Takım üyeleri birbirlerine süreçle ilgili bireysel geri bildirimlerde bulundular.
 ---
+
+
