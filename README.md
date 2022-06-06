@@ -105,6 +105,7 @@ Alınan kararlar: Süre kısıtı sebebiyle hazırlanan UI'daki bazı özellikle
 - **Sprint board update**: Sprint board screenshot: ![board_update](https://user-images.githubusercontent.com/59923643/172234202-4fcefd6a-85ec-454c-b6e7-0c237d5eb602.PNG)
 
 - **Ürün Durumu**: 
+- 
 ![1](https://user-images.githubusercontent.com/59923643/172235826-1e5dac2b-bb4e-4054-b418-42cb612b9db7.jpeg)
 ![2](https://user-images.githubusercontent.com/59923643/172235830-4289092b-684e-4d9f-9099-5e944fd3ec10.jpeg)
 ![3](https://user-images.githubusercontent.com/59923643/172235832-463720a8-610c-4be1-8b3b-b65c61e0af78.jpeg)
